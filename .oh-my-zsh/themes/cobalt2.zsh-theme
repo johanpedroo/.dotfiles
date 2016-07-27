@@ -122,4 +122,4 @@ build_prompt() {
   prompt_end
 }
 
-PROMPT='%{%f%b%k%}$(build_prompt) $NEWLINE%K{white}%F{black}%   %F{white}% %K{NONE}% $SEGMENT_SEPARATOR '
+PROMPT='%{%f%b%k%}$(build_prompt) $NEWLINE%K{white}%F{black}%   %F{white}% %K{NONE}% $SEGMENT_SEPARATOR ' 
