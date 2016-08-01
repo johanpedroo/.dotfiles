@@ -1,0 +1,5 @@
+c:\windows\SysWow64\WindowsPowerShell\v1.0\powershell.exe -noexit  -command "Set-Location '%V'; bash -c 'zsh'"
+
+
+
+c:\windows\SysWow64\WindowsPowerShell\v1.0\powershell.exe -noexit  -command "bash -c 'zsh'"
