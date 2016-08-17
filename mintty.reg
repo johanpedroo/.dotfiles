@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\mintty]
+@="Abrir no terminal"
+
+[HKEY_CLASSES_ROOT\*\shell\mintty\command]
+@="c:\\cygwin64\\bin\\mintty.exe -e /bin/xhere /bin/zsh \"%L\""
+
+[HKEY_CLASSES_ROOT\folder\shell\mintty]
+@="Abrir no terminal"
+
+[HKEY_CLASSES_ROOT\folder\shell\mintty\command]
+@="c:\\cygwin64\\bin\\mintty.exe -e /bin/xhere /bin/zsh \"%L\""
