@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
 
+
 [HKEY_CLASSES_ROOT\*\shell\mintty]
 @="Abrir no terminal"
 
